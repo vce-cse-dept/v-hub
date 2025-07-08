@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "vardhaman-hub.co",
+  "Id": "084a029e-1435-40bc-8201-87ec1b251fb3"
+}
